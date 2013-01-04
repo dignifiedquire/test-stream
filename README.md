@@ -6,7 +6,7 @@ The idea for this come mainly from [testacular#158] and [mocha#492].
 
 ## What to do
 
-* Read the specs below.n
+* Read the specs below.
 * Discuss ideas in this [issue #1].
 * Create pull requests to add to the specs.
 
